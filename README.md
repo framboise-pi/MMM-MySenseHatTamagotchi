@@ -23,3 +23,8 @@ Here is the plan for his module :
  in development...
  it misses the 3 different ages (babe, young, adult) | the birth/death sequence | cleaning the loft | games | sensors things |
  but it's working and will be soon release :p
+
+-------------------------------------
+### Give support ! ( share a coffee break !)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E79JA29LBLTAE&source=url)
+------------------------------------------------
