@@ -4,6 +4,11 @@ Tamagotchi Magic Mirror module for Raspberry SenseHat
 Here is the plan for his module :
 
 # What ?
+   The Tamagotchi will live his life by his own, moving randomly from a place to an other.
+<br>Some activities will get his moral down, and some up. To give him some morale : play 421 dice game by shakin the Sense Hat.
+<br>Health depends on food. It starts to get hungry after 2 hours, and there is a malus scale applied. Test will help to get maybe a better balance.
+<br>To give it food : click the joystick button.
+<br>
   * differents rooms : bedroom, kitchen, bathroom,livingroom
   * activities for tamagotchi : guitar, sleeping, biking, eating, watching tv, etc.
   * activities will be available depending on age
